@@ -56,7 +56,7 @@ textarea {
 }
 
 p{
-    color: #fff;
+    color: #171616;
 }
 
 button {
@@ -87,7 +87,7 @@ button {
 
 .section-footer {
     background-color: #333; 
-    color: #fff; 
+    
     padding: 10px;
     max-height: fit-content;
     margin: 1px;
@@ -95,6 +95,7 @@ button {
 
 .cont-data-footer p {
     margin: 5px 0;
+    color: #fff;
 }
 
 .cont-svg-footer img {
@@ -122,7 +123,7 @@ body {
 /* ... otros estilos para pantallas grandes ... */
 
 /* Media Query para tabletas */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 780px) {
     main {
         padding: 30px; /* Ajusta el espaciado para tabletas */
     }
